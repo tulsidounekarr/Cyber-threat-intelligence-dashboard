@@ -1,4 +1,4 @@
-🛡️ Cyber Threat Intelligence Dashboard — ThreatLens
+## 🛡️ Cyber Threat Intelligence Dashboard — ThreatLens
 
 A full-stack cybersecurity project for looking up public IP address reputation using the VirusTotal API. The application combines a React + TypeScript frontend with a Flask backend to help users review threat intelligence indicators.
 
@@ -130,6 +130,3 @@ Reputation results are indicators, not proof of malicious activity. The Flask de
 
 👨‍💻 Author
 Tulsi Dounekar
-Tulsi Dounekar
-
-View Project Repository
